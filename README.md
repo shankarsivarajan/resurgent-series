@@ -2,7 +2,7 @@
 
 Companion code for a series of notes applying resurgence and transseries analysis to tractable model systems.
 
-> Shankar Sivarajan, *Resurgence of the finite-N Curie–Weiss model: metastability, the spinodal, and Lee–Yang zeros* (2026).
+> Shankar Sivarajan, *Resurgence of the finite-N Curie–Weiss model: metastability, the spinodal, and Lee–Yang zeros*, [hexagon:2611.00950](https://hexagonmath.org/2611.00950) (2026).
 
 ## Usage
 
